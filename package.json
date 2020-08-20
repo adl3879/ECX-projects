@@ -9,7 +9,7 @@
   "author": "adlll",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^4.0.0",
+    "bcrypt": "^5.0.0",
     "is-array": "^1.0.1"
   }
 }
